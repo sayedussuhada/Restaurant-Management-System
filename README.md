@@ -1,2 +1,2 @@
 # Restaurant-Management-System
-It's a lab project code.
+It's a lab project code, Daffodil International University (DIU)
